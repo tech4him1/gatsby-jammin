@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: kalinchernev/gatsby-jammin # Path to your Github repository
+  repo: tech4him1/gatsby-jammin # Path to your Github repository
   branch: master # Branch to update (master by default)
 
 publish_mode: editorial_workflow
